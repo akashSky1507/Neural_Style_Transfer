@@ -1,1 +1,2 @@
 # Neural_Style_Transfer
+Neural style transfer is an optimization technique used to take two images, a content image, a style reference image (such as an artwork by a famous painter), and blend them together such that the outut image is transformed to look like the content image, but “painted” in the style of the style image. This technique was outlined in Leon A. Gatys’ paper, A Neural Algorithm of Artistic Style.
